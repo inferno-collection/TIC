@@ -1,4 +1,4 @@
--- Inferno Collection TIC Camera 1.0 Alpha
+-- Inferno Collection TIC Camera 1.1 Alpha
 --
 -- Copyright (c) 2019, Christopher M, Inferno Collection. All rights reserved.
 --

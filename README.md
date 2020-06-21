@@ -2,7 +2,7 @@
 # Inferno Collection: TIC
 [![Build Status](https://travis-ci.com/inferno-collection/TIC.svg?branch=master)](https://travis-ci.com/inferno-collection/TIC)
 
-__Public Alpha Version 1.0__
+__Public Alpha Version 1.1__
 
 Adds a working Thermal Imaging Camera (T.I.C) as a usable item to FiveM; the resource also comes with a custom FLIR model.
 
@@ -15,7 +15,7 @@ Usage:
 - Follow on screen instruction for TIC usage.
 
 ***
-##### Pictures
+### Pictures
 ![Image 1](https://i.ibb.co/zPHXPx7/image.png)
 
 ![Image 2](https://i.ibb.co/0QjwhQS/image.png)
