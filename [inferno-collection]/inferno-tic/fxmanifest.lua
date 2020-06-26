@@ -1,4 +1,4 @@
--- Inferno Collection TIC Camera 1.1 Alpha
+-- Inferno Collection TIC Camera 1.2 Alpha
 --
 -- Copyright (c) 2019, Christopher M, Inferno Collection. All rights reserved.
 --
@@ -14,7 +14,7 @@ description "Adds a working Thermal Imaging Camera (T.I.C) as a usable item to F
 
 author "Inferno Collection (inferno-collection.com)"
 
-version "1.1 Alpha"
+version "1.2 Alpha"
 
 url "https://inferno-collection.com"
 
