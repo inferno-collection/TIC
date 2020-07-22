@@ -10,7 +10,6 @@
 
 --
 -- Resource Configuration
--- Please note, there is also some configuration required in the `server.lua` file, so make sure to edit that file as well
 --
 -- PLEASE RESTART SERVER AFTER MAKING CHANGES TO THIS CONFIGURATION
 --
