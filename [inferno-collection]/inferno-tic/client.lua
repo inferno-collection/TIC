@@ -1,4 +1,4 @@
--- Inferno Collection TIC Camera 1.2 Beta
+-- Inferno Collection TIC 1.2 Beta
 --
 -- Copyright (c) 2019-2020, Christopher M, Inferno Collection. All rights reserved.
 --
