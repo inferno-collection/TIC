@@ -21,5 +21,8 @@ Presently, the following can be customized:
 
 ![Image 3](https://i.ibb.co/6vCvGLJ/image.png)
 
+### Download link
+
+https://github.com/inferno-collection/TIC/releases/latest
 
 > The Inferno Collection Team
