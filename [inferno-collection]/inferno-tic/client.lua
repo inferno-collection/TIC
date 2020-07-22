@@ -1,6 +1,6 @@
--- Inferno Collection TIC Camera 1.2 Alpha
+-- Inferno Collection TIC Camera 1.2 Beta
 --
--- Copyright (c) 2019, Christopher M, Inferno Collection. All rights reserved.
+-- Copyright (c) 2019-2020, Christopher M, Inferno Collection. All rights reserved.
 --
 -- This project is licensed under the following:
 -- Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and merge the software, under the following conditions:
@@ -40,6 +40,13 @@ TIC.Fading = false
 TIC.Heatscale = 0.3
 TIC.AnimStarted = false
 TIC.AimingAnimStarted = false
+
+-- Add chat suggestions on client join
+AddEventHandler('onClientMapStart', function()
+    TriggerEvent('chat:addSuggestion', '/tic', 'Type an action.', {
+        { name = 'action', help = 'collect store' }
+    })
+end)
 
 -- Command to store and collect a TIC from an approved vehicle
 RegisterCommand("tic", function(_, Args)

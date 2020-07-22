@@ -1,6 +1,6 @@
--- Inferno Collection TIC Camera 1.2 Alpha
+-- Inferno Collection TIC Camera 1.2 Beta
 --
--- Copyright (c) 2019, Christopher M, Inferno Collection. All rights reserved.
+-- Copyright (c) 2019-2020, Christopher M, Inferno Collection. All rights reserved.
 --
 -- This project is licensed under the following:
 -- Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and merge the software, under the following conditions:
@@ -14,7 +14,7 @@ description "Adds a working Thermal Imaging Camera (T.I.C) as a usable item to F
 
 author "Inferno Collection (inferno-collection.com)"
 
-version "1.2 Alpha"
+version "1.2 Beta"
 
 url "https://inferno-collection.com"
 
